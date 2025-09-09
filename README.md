@@ -39,3 +39,8 @@ docker-compose up --build
 Users API → http://localhost:5000/api/users
 
 Orders API → http://localhost:5001/api/orders
+
+---
+📫 About Me
+
+Backend Developer specializing in C#, .NET Core, SQL, REST APIs, and cloud deployment.
