@@ -1,8 +1,3 @@
-
----
-
-## 📌 2. `microservices-demo` – Microservices Architecture Demo
-```markdown
 # Microservices Demo  
 
 This project demonstrates a simple **microservices architecture** built with **.NET Core, Docker, and MongoDB**.  
@@ -10,7 +5,7 @@ This project demonstrates a simple **microservices architecture** built with **.
 ---
 
 ## 🔧 Tech Stack  
-- .NET Core 6 (C#)  
+- .NET 6 (C#)  
 - Docker & Docker Compose  
 - MongoDB  
 - REST APIs  
@@ -31,22 +26,22 @@ This project demonstrates a simple **microservices architecture** built with **.
 git clone https://github.com/milannedeljkovic-webdev/microservices-demo.git
 cd microservices-demo
 
+---
+
 2. Run with Docker Compose
+bash
+Copy code
 docker-compose up --build
 
-3. Access APIs
+---
 
+3. Access APIs
 Users API → http://localhost:5000/api/users
 
 Orders API → http://localhost:5001/api/orders
 
----
 📫 About Me
-
-Backend Developer specializing in C#, .NET Core, SQL, REST APIs, and cloud deployment.
-
----
-
-📫 About Me
-
 Backend Developer specializing in C#, .NET Core, Microservices, Docker, and Cloud.
+
+yaml
+Copy code
