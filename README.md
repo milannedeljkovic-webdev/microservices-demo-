@@ -44,3 +44,9 @@ Orders API → http://localhost:5001/api/orders
 📫 About Me
 
 Backend Developer specializing in C#, .NET Core, SQL, REST APIs, and cloud deployment.
+
+---
+
+📫 About Me
+
+Backend Developer specializing in C#, .NET Core, Microservices, Docker, and Cloud.
