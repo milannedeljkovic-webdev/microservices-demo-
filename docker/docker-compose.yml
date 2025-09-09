@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  users-service:
+    build: ./UsersService
+    ports:
+      - "5000:80"
+  orders-service:
+    build: ./OrdersService
+    ports:
+      - "5001:80"
+  api-gateway:
+    build: ./ApiGateway
+    ports:
+      - "5002:80"
